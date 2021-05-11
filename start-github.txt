@@ -1,0 +1,9 @@
+Project #1: Develop an AI model to detect people emotions using Google Teachable Machines (Technology).
+
+Project #2: Develop an AI model to detect and classify chest disease using X-Ray chest data using Google Teachable Machines (HealthCare).
+
+Project #3: Predict Insurance Premium using Customer Features such as age, smoking habit and geo-location using AWS AI AutoPilot (Business).
+
+Project #4: Detect Cardiovascular Disease using DataRobot AI (HealthCare).
+
+Project #5: Recognize food types and explore AI explainability using DataRobot AI (Technology).
